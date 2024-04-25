@@ -58,5 +58,6 @@ public class ExampleTestNG {
     public void afterSuite() {
         System.out.println("This will execute after the Test Suite");
     }
+    Hello from main branch
 
 }
